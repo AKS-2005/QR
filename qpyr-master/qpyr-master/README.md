@@ -1,7 +1,3 @@
-![PyPI - Downloads](https://img.shields.io/pypi/dm/qpyr)
-[![PyPI Latest Release](https://img.shields.io/pypi/v/qpyr)](https://pypi.org/project/qpyr/)
-[![codecov](https://codecov.io/gh/sabih-h/qpyr/graph/badge.svg?token=YLOSBSXWJJ)](https://codecov.io/gh/sabih-h/qpyr)
-
 
 # QPYR - QR Code Generation in Python
 Python package designed for creating QR codes with support for all QR code versions from 1 to 40. Designed for developers looking for a simple way to integrate QR code generation into their Python applications 🚀🚀🚀.
